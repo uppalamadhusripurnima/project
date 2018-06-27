@@ -1,0 +1,126 @@
+#ID_view_data{
+    float:left;
+    margin-top:8px;
+    margin-left:50px;
+    border:0px;
+    font-size: 20px;
+    block-size: 35px;
+    
+}
+
+#ID_card_heading{
+    font-size: 20px;
+}
+
+/* .title{
+    font-size: 19px;
+}
+
+.stats{
+   
+    margin-left:450px;
+    width:400px;
+    height: 400px;
+    border:2px solid black;
+} */
+
+/* .points-container{
+    /* border:2px solid black; 
+    width:300px;
+    height:300px;
+    margin-left:50px;
+    margin-top:40px;
+}
+.header{
+     border:2px solid black; 
+    width:300px;
+    height:70px;
+}
+
+.header span{
+    font-size: 60px;
+    float:left;
+
+}
+.points-container p{
+    float:left;   
+}
+
+.content-titles{
+     border:2px solid black; 
+    width:300px;
+    height:70px;
+    margin-top:35px;
+} */
+#ID_rec{
+    margin-top: 40px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+/* .total p{
+    margin-left: 29px;
+    width: 107px;
+} */
+#ID_points{
+    width:30%;
+     border:1px solid white;
+    margin-left: 920px;
+    height:240px;
+    margin-top:-1045px;
+}
+ #ID_tt_tm{
+    padding-top: 85px;
+    font-size: 20px;
+}
+#ID_tm{
+    padding-top: 85px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+#ID_tt_tm_v{
+    font-size:20px;
+}
+#ID_tm_v{
+    padding-left: 40px;
+    
+}
+.box{
+    width:30%;
+margin-top: 10px;
+    align-content: center;
+    border:1px solid white;
+    margin-left: 40px;
+    height:45%;
+    background-color: white;
+    border-radius: 10px;
+}
+.row1{
+    margin-left: 80px;
+    height:450px;
+    width:780px;
+     border:1px solid white; 
+}
+.rows{
+    margin-top: 8px;
+    margin-left: 74px;
+    height:450px;
+    width:780px;
+     border:1px solid white; 
+}
+.highlight{
+    font-style: bold;
+    font-size: 30px;
+    text-align:center;
+}
+#ID_logout{
+    float:right;
+    margin-top: -41px;
+}
+#ID_rec1{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left:68px;
+    font-style: italic;
+}
